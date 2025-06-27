@@ -10,7 +10,7 @@ public class Main {
         
         int a = Integer.parseInt(st.nextToken());
         int b = Integer.parseInt(st.nextToken());
-
+//333
         bw.write(a+b+"\n");
         bw.flush();
         bw.close();
