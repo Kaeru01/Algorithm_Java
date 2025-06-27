@@ -11,7 +11,7 @@ public class Main {
 
         double a = Double.parseDouble(st.nextToken());
         double b = Double.parseDouble(st.nextToken());
-        
+
         bw.write(a / b + "\n");
         bw.flush();
         bw.close();

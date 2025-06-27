@@ -8,7 +8,7 @@ public class Main {
         int a = Integer.parseInt(br.readLine());
         int b = Integer.parseInt(br.readLine());
 
-        bw.write(a+b+"\n");
+        bw.write(a + b + "\n");
         bw.flush();
         bw.close();
     }
