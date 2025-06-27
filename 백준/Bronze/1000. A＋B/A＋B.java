@@ -13,7 +13,6 @@ public class Main {
         int b = Integer.parseInt(st.nextToken());
 
         bw.write(a + b + "\n");
-
         bw.flush();
         bw.close();
     }
