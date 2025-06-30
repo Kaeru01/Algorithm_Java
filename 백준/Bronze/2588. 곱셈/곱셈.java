@@ -12,7 +12,10 @@ public class Main {
         int b2 = B.charAt(1) - '0';
         int b3 = B.charAt(0) - '0';
 
-        bw.write(A * b1 + "\n" + A * b2 + "\n" + A * b3 + "\n" + A * Integer.parseInt(B) + "\n");
+        bw.write(A * b1 + "\n");
+        bw.write(A * b2 + "\n");
+        bw.write(A * b3 + "\n");
+        bw.write(A * Integer.parseInt(B) + "\n");
         bw.flush();
         bw.close();
     }
