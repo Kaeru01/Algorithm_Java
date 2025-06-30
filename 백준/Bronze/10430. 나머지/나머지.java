@@ -13,7 +13,10 @@ public class Main {
         int b = Integer.parseInt(st.nextToken());
         int c = Integer.parseInt(st.nextToken());
 
-        bw.write(((a + b) % c) + "\n" + ((a % c) + (b % c)) % c + "\n" + (a * b) % c + "\n" + ((a % c) * (b % c)) % c + "\n");
+        bw.write(((a + b) % c) + "\n");
+        bw.write(((a % c) + (b % c)) % c + "\n");
+        bw.write((a * b) % c + "\n");
+        bw.write(((a % c) * (b % c)) % c + "\n");
         bw.flush();
         bw.close();
     }
