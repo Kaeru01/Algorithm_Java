@@ -16,11 +16,11 @@ public class Main {
 
     if (score >= 90) {
       bw.write("A");
-    } else if (score >= 80 && score <= 89) {
+    } else if (score >= 80) {
       bw.write("B");
-    } else if (score >= 70 && score <= 79) {
+    } else if (score >= 70) {
       bw.write("C");
-    } else if (score >= 60 && score <= 69) {
+    } else if (score >= 60) {
       bw.write("D");
     } else {
       bw.write("F");
