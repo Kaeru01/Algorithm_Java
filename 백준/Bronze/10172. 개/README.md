@@ -1,2 +1,28 @@
-# Algorithm_Java
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# [Bronze V] 개 - 10172 
+
+[문제 링크](https://www.acmicpc.net/problem/10171) 
+
+### 성능 요약
+
+메모리: 14012 KB, 시간: 100 ms
+
+### 분류
+
+구현
+
+### 제출 일자
+
+2025년 7월 2일 22:44:58
+
+### 문제 설명
+
+<p>아래 예제와 같이 개를 출력하시오.</p>
+
+### 입력 
+
+ <p>없음.</p>
+
+### 출력 
+
+ <p>개를 출력한다.</p>
+
